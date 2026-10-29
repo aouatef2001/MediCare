@@ -164,40 +164,8 @@ Building practical web applications and exploring modern technologies.
 
 ---
 
----
-
 <div align="center">
 
-### 💗 Meet the Developer
-
-<img src="https://img.shields.io/badge/Created%20with-♡%20and%20Code-E8A0BF?style=for-the-badge" alt="Created with love and code"/>
-
-<br/><br/>
-
-# Aouatef Taouali 🌷
-
-**Software Development Student | Frontend Enthusiast**
-
-A girl who loves turning ideas into beautiful, functional digital experiences.
-
-I enjoy exploring modern web technologies, creating thoughtful user interfaces, and building projects that combine design with functionality.
-
-<br/>
-
-<img src="https://img.shields.io/badge/Creative-Developer-E8A0BF?style=flat-square" alt="Creative developer"/>
-<img src="https://img.shields.io/badge/Always-Learning-B7C9B0?style=flat-square" alt="Always learning"/>
-<img src="https://img.shields.io/badge/Built%20with-Passion-F2C6DE?style=flat-square" alt="Built with passion"/>
-
-<br/><br/>
-
-<a href="https://github.com/aouatef2001">
-<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
-</a>
-
-<br/><br/>
-
-*She codes. She creates. She keeps growing.* ♡
+**MediCare** · Better Health. Brighter Tomorrow. 💚
 
 </div>
-
----
